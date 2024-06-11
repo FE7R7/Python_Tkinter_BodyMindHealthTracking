@@ -39,9 +39,16 @@ Meditation —> 15
 
 Pre Stretching —> 5
 Pos Stretching —> 5
+
 Physical Training Type (HIIT / Strength / HIIT & Strength) —> 7 / 7 /15
 Physical Training Time (Under / Over 29 minutes) —>  7 / 15
 
 User Total Score
 User Percentage Score
+
+--------------------------------//--------------------------------
+
+<img width="637" alt="Body_Mind" src="https://github.com/FE7R7/Python_Tkinter_BodyMindHealthTracking/assets/147453330/85cb47ad-9b89-4e5b-8b65-d28cc1e857b2">
+
+
 
